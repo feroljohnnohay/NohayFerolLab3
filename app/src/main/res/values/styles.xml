@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Button1Style">
+        <item name= "android:layout_width">wrap_content</item>
+        <item name= "android:layout_height">wrap_content</item>
+        <item name= "android:layout_marginTop">43dp</item>
+        <item name="android:layout_marginLeft">43dp</item>
+        <item name="android:layout_marginStart">43dp</item>
+        <item name="android:text">BACK</item>
+    </style>
+
+    <style name="ImageStyle">
+        <item name="android:contentDescription">National Museum</item>
+        <item name= "android:layout_width">wrap_content</item>
+        <item name="android:layout_height">218dp</item>
+        <item name="android:layout_marginBottom">21dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+    </style>
+
+    <style name="TitleTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">35dp</item>
+        <item name="android:layout_marginLeft">110dp</item>
+        <item name="android:layout_marginRight">109dp</item>
+        <item name="android:layout_marginTop">21dp</item>
+        <item name="android:text">National Museum</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="LocationTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">19dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:layout_marginLeft">53dp</item>
+        <item name="android:layout_marginRight">53dp</item>
+        <item name="android:text">Location:</item>
+    </style>
+
+    <style name="LocStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:layout_marginLeft">52dp</item>
+        <item name="android:text">Padre Burgos Ave, Ermita, Manila</item>
+    </style>
+
+    <style name="DistanceStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">19dp</item>
+        <item name="android:text">Distance From UST:</item>
+    </style>
+
+    <style name="DisStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">17dp</item>
+        <item name="android:layout_marginTop">19dp</item>
+        <item name="android:text">3.6 KM</item>
+    </style>
+
+    <style name="Button2Style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">69dp</item>
+        <item name="android:layout_marginEnd">54dp</item>
+        <item name="android:layout_marginLeft">111dp</item>
+        <item name="android:layout_marginRight">54dp</item>
+        <item name="android:layout_marginStart">111dp</item>
+        <item name="android:layout_marginTop">80dp</item>
+        <item name="android:text">NEXT</item>
+    </style>
+
+</resources>
